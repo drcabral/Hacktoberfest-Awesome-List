@@ -12,6 +12,8 @@ Vamos utilizar esse espaço para adicionar a lista projetos nacionais, separados
 ## Issues para iniciantes
 
 ## Issues gerais
+- https://github.com/lopidio/enqueuer
+- https://github.com/lopidio/stacker
 
 # Projetos Internacionais
 
