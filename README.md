@@ -11,6 +11,8 @@ Vamos utilizar esse espaço para adicionar a lista projetos nacionais, separados
 
 ## Issues para iniciantes
 
+1. https://github.com/thedevelopersanjeev/Learn-Git
+
 ## Issues gerais
 1. https://github.com/lopidio/enqueuer
 2. https://github.com/lopidio/stacker
@@ -23,3 +25,7 @@ Vamos utilizar esse espaço para adicionar a lista projetos internacionais, sepa
 ## Issues para iniciantes
 
 ## Issues gerais
+
+1. https://github.com/gitpoint/git-point/issues/813
+2. https://github.com/OperationCode (diversos projetos com issues em diferentes níveis)
+3. https://github.com/jenkoian/hacktoberfest-checker/issues
