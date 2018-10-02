@@ -12,8 +12,9 @@ Vamos utilizar esse espaço para adicionar a lista projetos nacionais, separados
 ## Issues para iniciantes
 
 ## Issues gerais
-[Django-forum](https://github.com/EnzoRobaina/django-forum) - Um app feito com django para criar e gerenciar um fórum.
-- Issue #2 ao submeter o formulário caso ele não seja validado.
+1. https://github.com/lopidio/enqueuer
+2. https://github.com/lopidio/stacker
+3. https://github.com/EnzoRobaina/django-forum
 
 # Projetos Internacionais
 
