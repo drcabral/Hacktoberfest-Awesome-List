@@ -12,12 +12,19 @@ Vamos utilizar esse espaço para adicionar a lista projetos nacionais, separados
 ## Issues para iniciantes
 
 1. https://github.com/thedevelopersanjeev/Learn-Git
+2. https://github.com/cristianoliveira/awesome4girls
+3. https://github.com/yanmagale/narigajs
 
 ## Issues gerais
 1. https://github.com/lopidio/enqueuer
 2. https://github.com/lopidio/stacker
 3. https://github.com/EnzoRobaina/django-forum
 4. https://github.com/giancarlopro/drapion
+5. https://github.com/luanfonceca/speakerfight
+6. https://github.com/olist/correios
+7. https://github.com/RocketChat/Rocket.Chat/
+8. https://github.com/pedronauck/docz
+9. https://github.com/mvfsillva/dialetus-service
 
 # Projetos Internacionais
 
@@ -30,3 +37,5 @@ Vamos utilizar esse espaço para adicionar a lista projetos internacionais, sepa
 1. https://github.com/gitpoint/git-point/issues/813
 2. https://github.com/OperationCode (diversos projetos com issues em diferentes níveis)
 3. https://github.com/jenkoian/hacktoberfest-checker/issues
+4. https://github.com/tomastrajan/angular-ngrx-material-starter
+5. https://github.com/get-alex/alex
