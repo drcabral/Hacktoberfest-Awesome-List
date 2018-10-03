@@ -39,3 +39,5 @@ Vamos utilizar esse espaço para adicionar a lista projetos internacionais, sepa
 3. https://github.com/jenkoian/hacktoberfest-checker/issues
 4. https://github.com/tomastrajan/angular-ngrx-material-starter
 5. https://github.com/get-alex/alex
+6. https://github.com/utilForever/game-developer-roadmap
+7. https://github.com/ameizi/awesome-ios-animation
