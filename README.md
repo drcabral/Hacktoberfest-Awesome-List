@@ -14,6 +14,7 @@ Vamos utilizar esse espaço para adicionar a lista projetos nacionais, separados
 1. https://github.com/thedevelopersanjeev/Learn-Git
 2. https://github.com/cristianoliveira/awesome4girls
 3. https://github.com/yanmagale/narigajs
+4. https://github.com/mvfsillva/dialetus-service/issues
 
 ## Issues gerais
 1. https://github.com/lopidio/enqueuer
