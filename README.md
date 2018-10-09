@@ -44,9 +44,9 @@ Vamos utilizar esse espaço para adicionar a lista projetos internacionais, sepa
 
 # Empresas que estão oferecendo brindes extras por contribuição em seus projetos
 
-1. Microsoft: https://opensource.microsoft.com/
+1. **Microsoft**: https://opensource.microsoft.com/
     1. Além de contribuir para qualquer repositório da Microsoft, você deverá preencher um formulário com seus dados para validação dos brindes (https://microsoft.qualtrics.com/jfe/form/SV_1NrfDyLTNVFun4x).
-2. Stone: https://github.com/stone-payments/sling-web-framework
+2. **Stone**: https://github.com/stone-payments/sling-web-framework
     1. Além de resolver ao menos uma issue deste repositório (para completar as 5 do hacktoberfest), um email deverá ser enviado para sling@stone.com.br para mostrar seu progresso.
-3. Globo.com: https://opensource.globo.com/hacktoberfest/
+3. **Globo.com**: https://opensource.globo.com/hacktoberfest/
     1. Contribua com 2 pull requests para qualquer repositório da Globo.com, se ao menos um for aceito, você receberá um brinde da empresa. Basta clicar em participar no site e começar a codar!
