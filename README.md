@@ -26,6 +26,8 @@ Vamos utilizar esse espaço para adicionar a lista projetos nacionais, separados
 7. https://github.com/RocketChat/Rocket.Chat/
 8. https://github.com/pedronauck/docz
 9. https://github.com/mvfsillva/dialetus-service
+10. https://github.com/ayr-ton/kamu
+11. https://github.com/Enegrecer/enegrecer-web
 
 # Projetos Internacionais
 
