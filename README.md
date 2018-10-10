@@ -28,6 +28,7 @@ Vamos utilizar esse espaço para adicionar a lista projetos nacionais, separados
 9. https://github.com/mvfsillva/dialetus-service
 10. https://github.com/ayr-ton/kamu
 11. https://github.com/Enegrecer/enegrecer-web
+12. https://github.com/3jacksonsmith/chrome_extension_speech_text
 
 # Projetos Internacionais
 
