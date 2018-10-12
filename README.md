@@ -34,8 +34,8 @@ Além dos projetos listados abaixo, você pode encontrar mais issues procurando 
 
 ### PHP/WordPress
 
-* [Corcel] (wordpress/php-wordpress.md)
-* [Odin] (wordpress/php-wordpress.md)
+* [Corcel](wordpress/php-wordpress.md)
+* [Odin](wordpress/php-wordpress.md)
 
 ### Geral
 
