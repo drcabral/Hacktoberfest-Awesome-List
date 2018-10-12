@@ -29,6 +29,8 @@ Vamos utilizar esse espaço para adicionar a lista projetos nacionais, separados
 10. https://github.com/ayr-ton/kamu
 11. https://github.com/Enegrecer/enegrecer-web
 12. https://github.com/3jacksonsmith/chrome_extension_speech_text
+13. https://github.com/corcel/corcel
+14. https://github.com/wpbrasil/odin
 
 # Projetos Internacionais
 
@@ -53,3 +55,9 @@ Vamos utilizar esse espaço para adicionar a lista projetos internacionais, sepa
     1. Além de resolver ao menos uma issue deste repositório (para completar as 5 do hacktoberfest), um email deverá ser enviado para sling@stone.com.br para mostrar seu progresso.
 3. **Globo.com**: https://opensource.globo.com/hacktoberfest/
     1. Contribua com 2 pull requests para qualquer repositório da Globo.com, se ao menos um for aceito, você receberá um brinde da empresa. Basta clicar em participar no site e começar a codar!
+
+# Outra lista externa de projetos open source
+
+A Camila Tigre assim como nós criou uma lista de projetos e issues separados por níveis.
+
+https://github.com/camilatigre/listamaravilhosaopensource
