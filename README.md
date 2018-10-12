@@ -32,6 +32,11 @@ Além dos projetos listados abaixo, você pode encontrar mais issues procurando 
 * [Django](python/django.md)
 * [Python](python/python.md)
 
+### PHP/WordPress
+
+* [Corcel] (wordpress/php-wordpress.md)
+* [Odin] (wordpress/php-wordpress.md)
+
 ### Geral
 
 **1.** [OperationCode](https://github.com/OperationCode) - Diversos projetos para ajudar a comunidade militar a aprender desenvolvimento de software.
@@ -51,3 +56,9 @@ Além de resolver ao menos uma issue deste repositório (para completar as 5 do 
 3. **Globo.com**: https://opensource.globo.com/hacktoberfest/
 
 Contribua com 2 pull requests para qualquer repositório da Globo.com, se ao menos um for aceito, você receberá um brinde da empresa. Basta clicar em participar no site e começar a codar!
+
+# Outra lista externa de projetos open source
+
+A Camila Tigre, assim como nós, criou uma lista de projetos e issues separados por níveis.
+
+**Lista Maravilhosa Open Source**: https://github.com/camilatigre/listamaravilhosaopensource
