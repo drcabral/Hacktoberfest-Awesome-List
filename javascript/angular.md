@@ -1,0 +1,1 @@
+**1.** [tomastrajan/angular-ngrx-material-starter](https://github.com/tomastrajan/angular-ngrx-material-starter) - Coleção de arquivos iniciais para começar um projeto em Angular, NgRx e Angular Material.
