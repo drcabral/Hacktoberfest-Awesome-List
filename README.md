@@ -5,59 +5,60 @@ Para facilitar o acesso dos participantes à projetos de diversos níveis, tanto
 
 Você pode utilizar a ferramenta Hacktoberfest Checker (https://hacktoberfestchecker.herokuapp.com/) para verificar seu progresso, basta buscar pelo seu usuário no GitHub!
 
-# Projetos Brasileiros
+# Lista de projetos para contribuir
 
-Vamos utilizar esse espaço para adicionar a lista projetos nacionais, separados entre projetos com issues que pessoas que estão começando possam contribuir e também issues gerais
+## Projetos para "sua primeira vez"
 
-## Issues para iniciantes
+Além dos projetos listados abaixo, você pode encontrar mais issues procurando pelo label `first-timers-only` ou [clicando aqui](https://github.com/search?q=label%3Afirst-timers-only+state%3Aopen+type%3Aissue).
 
-1. https://github.com/thedevelopersanjeev/Learn-Git
-2. https://github.com/cristianoliveira/awesome4girls
-3. https://github.com/yanmagale/narigajs
-4. https://github.com/mvfsillva/dialetus-service/issues
+**1.** [thedevelopersanjeev/Learn-Git](https://github.com/thedevelopersanjeev/Learn-Git) - Abra seu primeiro Pull Request praticando um pouquinho com o Git e GitHub.
 
-## Issues gerais
-1. https://github.com/lopidio/enqueuer
-2. https://github.com/lopidio/stacker
-3. https://github.com/EnzoRobaina/django-forum
-4. https://github.com/giancarlopro/drapion
-5. https://github.com/luanfonceca/speakerfight
-6. https://github.com/olist/correios
-7. https://github.com/RocketChat/Rocket.Chat/
-8. https://github.com/pedronauck/docz
-9. https://github.com/mvfsillva/dialetus-service
-10. https://github.com/ayr-ton/kamu
-11. https://github.com/Enegrecer/enegrecer-web
-12. https://github.com/3jacksonsmith/chrome_extension_speech_text
-13. https://github.com/corcel/corcel
-14. https://github.com/wpbrasil/odin
+**2.** [cristianoliveira/awesome4girls](https://github.com/cristianoliveira/awesome4girls) - Contribua com algum evento/projeto/iniciativa para mulheres na área de tecnologia.
 
-# Projetos Internacionais
+## Projetos separados por tecnologia
 
-Vamos utilizar esse espaço para adicionar a lista projetos internacionais, separados entre projetos com issues que pessoas que estão começando possam contribuir e também issues gerais
+### JavaScript
 
-## Issues para iniciantes
+* [Angular](javascript/angular.md)
+* [jQuery](javascript/jquery.md)
+* [Meteor](javascript/meteor.md)
+* [NodeJS](javascript/nodejs.md)
+* [React](javascript/react.md)
+* [Vanilla JavaScript](javascript/vanillajs.md)
+* [VueJS](javascript/vuejs.md)
 
-## Issues gerais
+### Python
 
-1. https://github.com/gitpoint/git-point/issues/813
-2. https://github.com/OperationCode (diversos projetos com issues em diferentes níveis)
-3. https://github.com/jenkoian/hacktoberfest-checker/issues
-4. https://github.com/tomastrajan/angular-ngrx-material-starter
-5. https://github.com/get-alex/alex
-6. https://github.com/utilForever/game-developer-roadmap
+* [Django](python/django.md)
+* [Python](python/python.md)
+
+### PHP/WordPress
+
+* [Corcel] (wordpress/php-wordpress.md)
+* [Odin] (wordpress/php-wordpress.md)
+
+### Geral
+
+**1.** [OperationCode](https://github.com/OperationCode) - Diversos projetos para ajudar a comunidade militar a aprender desenvolvimento de software.
+
+**2.** [utilForever/game-developer-roadmap](https://github.com/utilForever/game-developer-roadmap) - Um roadmap para quem quer se tornar um Game Developer.
 
 # Empresas que estão oferecendo brindes extras por contribuição em seus projetos
 
 1. **Microsoft**: https://opensource.microsoft.com/
-    1. Além de contribuir para qualquer repositório da Microsoft, você deverá preencher um formulário com seus dados para validação dos brindes (https://microsoft.qualtrics.com/jfe/form/SV_1NrfDyLTNVFun4x).
+
+Além de contribuir para qualquer repositório da Microsoft, você deverá preencher um formulário com seus dados para validação dos brindes (https://microsoft.qualtrics.com/jfe/form/SV_1NrfDyLTNVFun4x).
+
 2. **Stone**: https://github.com/stone-payments/sling-web-framework
-    1. Além de resolver ao menos uma issue deste repositório (para completar as 5 do hacktoberfest), um email deverá ser enviado para sling@stone.com.br para mostrar seu progresso.
+
+Além de resolver ao menos uma issue deste repositório (para completar as 5 do hacktoberfest), um email deverá ser enviado para sling@stone.com.br para mostrar seu progresso.
+
 3. **Globo.com**: https://opensource.globo.com/hacktoberfest/
-    1. Contribua com 2 pull requests para qualquer repositório da Globo.com, se ao menos um for aceito, você receberá um brinde da empresa. Basta clicar em participar no site e começar a codar!
+
+Contribua com 2 pull requests para qualquer repositório da Globo.com, se ao menos um for aceito, você receberá um brinde da empresa. Basta clicar em participar no site e começar a codar!
 
 # Outra lista externa de projetos open source
 
-A Camila Tigre assim como nós criou uma lista de projetos e issues separados por níveis.
+A Camila Tigre, assim como nós, criou uma lista de projetos e issues separados por níveis.
 
-https://github.com/camilatigre/listamaravilhosaopensource
+**Lista Maravilhosa Open Source**: https://github.com/camilatigre/listamaravilhosaopensource
