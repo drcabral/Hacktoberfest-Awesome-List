@@ -67,4 +67,4 @@ A Camila Tigre, assim como nós, criou uma lista de projetos e issues separados 
 
 **Lista Maravilhosa Open Source**: [camilatigre/listamaravilhosaopensource](https://github.com/camilatigre/listamaravilhosaopensource)
 
-A [Jessica Temporal](@https://github.com/jtemporal) criou uma lista (foda!) de [repositórios open source da galera BR](https://medium.com/@jessicatemporal/projetos-brasileiros-para-contribuir-nesse-hacktoberfest-vers%C3%A3o-2018-4925959b9411) 🇧🇷 separado por linguagens!
+A [Jessica Temporal](https://github.com/jtemporal) criou uma lista (foda!) de [repositórios open source da galera BR](https://medium.com/@jessicatemporal/projetos-brasileiros-para-contribuir-nesse-hacktoberfest-vers%C3%A3o-2018-4925959b9411) 🇧🇷 separado por linguagens!
