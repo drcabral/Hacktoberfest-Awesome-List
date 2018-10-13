@@ -57,6 +57,10 @@ Além de resolver ao menos uma issue deste repositório (para completar as 5 do 
 
 Contribua com 2 pull requests para qualquer repositório da Globo.com, se ao menos um for aceito, você receberá um brinde da empresa. Basta clicar em participar no site e começar a codar!
 
+4. **Hasura**: https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560
+
+Será enviado um pacote de stickers para quem submeter um pull request para o repositório. Caso seu PR seja aprovado em uma issue com a tag "Hacktoberfest", você ganhará também uma camiseta.
+
 # Outra lista externa de projetos open source
 
 A Camila Tigre, assim como nós, criou uma lista de projetos e issues separados por níveis.
