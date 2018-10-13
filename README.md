@@ -15,6 +15,8 @@ Além dos projetos listados abaixo, você pode encontrar mais issues procurando 
 
 **2.** [cristianoliveira/awesome4girls](https://github.com/cristianoliveira/awesome4girls) - Contribua com algum evento/projeto/iniciativa para mulheres na área de tecnologia.
 
+**3.** [lingonsaft/hacktoberfest](https://github.com/lingonsaft/hacktoberfest) - Projeto para ajudar iniciantes a começarem o hacktoberfest.
+
 ## Projetos separados por tecnologia
 
 ### JavaScript
