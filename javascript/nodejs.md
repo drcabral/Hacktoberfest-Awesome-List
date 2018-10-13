@@ -9,3 +9,5 @@
 **5.** [jenkoian/hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker) - Um app para checar o progresso de um determinado usuário no Hacktoberfest.
 
 **6.** [get-alex/alex](https://github.com/get-alex/alex) - Uma ferramenta para reportar erros e abusos gramaticais.
+
+**7.** [BlakeGuilloud/ganon](https://github.com/BlakeGuilloud/ganon) - Ganon é uma biblioteca de javascript projetada e mantida por contribuidores de código aberto.
