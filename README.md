@@ -63,6 +63,22 @@ Contribua com 2 pull requests para qualquer repositório da Globo.com, se ao men
 
 Será enviado um pacote de stickers para quem submeter um pull request para o repositório. Caso seu PR seja aprovado em uma issue com a tag "Hacktoberfest", você ganhará também uma camiseta.
 
+5. **Auth0**: https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/
+
+Contribua com um PR para o [projeto Auth0](https://github.com/auth0) ou [comunidade](https://github.com/auth0-community) e ganhe uma camisa e um _psychedelic sticker pack_.
+
+6. **SendGrid**: https://sendgrid.com/blog/hacktoberfest-2018-has-arrived/
+
+Contribua com 5 issues de dificuldade "easy" ou 2 de dificuldade "medium" ou 1 de dificuldade "hard" ou maior para ganhar uma camisa.
+
+7. **OpenEBS**: https://openebs.io/hackfests/hacktoberfest-2018
+
+Todos que submeterem um PR ganharão uma camisa e stickers. O melhor PR ganhará um notebook.
+
+8. **Umbraco**: https://umbraco.com/blog/happy-hacktoberfest/
+
+Todos que enviarem um PR que seja aceito receberá lembrancinhas (mesmo que o PR só seja aceito depois que outubro acabar).
+
 # Outra lista externa de projetos open source
 
 A Camila Tigre, assim como nós, criou uma lista de projetos e issues separados por níveis.
