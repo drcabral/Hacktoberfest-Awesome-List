@@ -97,6 +97,6 @@ Neste link você pode encontrar as fotos do evento: [fotos hacktoberfest in BH 2
 
 ## Talks
 
-1. [Apresentação do evento](https://drive.google.com/file/d/18rTqq-SzZvQPEw8MV9JlDzChNkxk_sWd/view?usp=sharing)
-2. 
-3. 
+1. [Apresentação do evento - Diogo Cabral](https://drive.google.com/file/d/18rTqq-SzZvQPEw8MV9JlDzChNkxk_sWd/view?usp=sharing)
+2. [Git the fork on - Izabela Borges](http://bit.ly/hacktoberfest2018TW)
+3. [Clean Code: Boas práticas no desenvolvimento de software - Rodrigo Brito](https://slides.com/rodrigo73/clean-code/)
