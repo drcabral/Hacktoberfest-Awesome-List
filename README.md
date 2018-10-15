@@ -97,5 +97,6 @@ Neste link você pode encontrar as fotos do evento: [fotos hacktoberfest in BH 2
 
 ## Talks
 
-1. 
+1. [Apresentação do evento](https://drive.google.com/file/d/18rTqq-SzZvQPEw8MV9JlDzChNkxk_sWd/view?usp=sharing)
 2. 
+3. 
