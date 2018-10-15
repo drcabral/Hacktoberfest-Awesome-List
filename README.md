@@ -86,3 +86,16 @@ A Camila Tigre, assim como nós, criou uma lista de projetos e issues separados 
 **Lista Maravilhosa Open Source**: [camilatigre/listamaravilhosaopensource](https://github.com/camilatigre/listamaravilhosaopensource)
 
 A [Jessica Temporal](https://github.com/jtemporal) criou uma lista (foda!) de [repositórios open source da galera BR](https://medium.com/@jessicatemporal/projetos-brasileiros-para-contribuir-nesse-hacktoberfest-vers%C3%A3o-2018-4925959b9411) 🇧🇷 separado por linguagens!
+
+# Conteúdo do Hacktoberfest in BH 2018
+
+Aconteceu o Hacktoberfest in BH 2018 no último dia 13/10 e foi incrível!! Aqui estão os links dos conteúdos gerados nesse dia!
+
+## Fotos
+
+Neste link você pode encontrar as fotos do evento: [fotos hacktoberfest in BH 2018](https://photos.app.goo.gl/rjFw2ACHHk7MApCAA)
+
+## Talks
+
+1. 
+2. 
