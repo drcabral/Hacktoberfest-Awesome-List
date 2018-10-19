@@ -39,6 +39,10 @@ Além dos projetos listados abaixo, você pode encontrar mais issues procurando 
 * [Corcel](wordpress/php-wordpress.md)
 * [Odin](wordpress/php-wordpress.md)
 
+### C#
+
+* [.NET Core](csharp/dotnet-core.md)
+
 ### Geral
 
 **1.** [OperationCode](https://github.com/OperationCode) - Diversos projetos para ajudar a comunidade militar a aprender desenvolvimento de software.
