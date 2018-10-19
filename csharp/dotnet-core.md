@@ -1,0 +1,1 @@
+**1.** [sajoratosg/MySql.DataLayer.Core](https://github.com/sajoratosg/MySql.DataLayer.Core) - Esta biblioteca fornece o acesso ao banco de dados MySql usando Dapper e .Net Core. Provendo um repositório com operações básicas de CRUD, view e StoredProcedures
