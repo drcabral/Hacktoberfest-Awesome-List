@@ -1,0 +1,1 @@
+**1.** [Coderockr/vitrine-social](https://github.com/Coderockr/vitrine-social) - Plataforma que funciona como um classificados de doações, facilitando o contato com organizações que precisam de apoio. (Projeto com Go e React)
