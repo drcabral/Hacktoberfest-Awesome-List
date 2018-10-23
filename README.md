@@ -43,6 +43,10 @@ Além dos projetos listados abaixo, você pode encontrar mais issues procurando 
 
 * [.NET Core](csharp/dotnet-core.md)
 
+### Go
+
+* [Go](go/go.md)
+
 ### Geral
 
 **1.** [OperationCode](https://github.com/OperationCode) - Diversos projetos para ajudar a comunidade militar a aprender desenvolvimento de software.
