@@ -62,3 +62,10 @@ Contribua com 2 pull requests para qualquer repositório da Globo.com, se ao men
 A Camila Tigre, assim como nós, criou uma lista de projetos e issues separados por níveis.
 
 **Lista Maravilhosa Open Source**: https://github.com/camilatigre/listamaravilhosaopensource
+
+
+# Por último
+
+Uma lista feita pela Erika Heidi com vários filtros interessantes para você escolher em qual linguaguem ou como gostaria de ajudar.
+http://hacktober-board.com/
+
