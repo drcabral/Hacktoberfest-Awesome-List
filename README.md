@@ -95,6 +95,11 @@ A Camila Tigre, assim como nós, criou uma lista de projetos e issues separados 
 
 A [Jessica Temporal](https://github.com/jtemporal) criou uma lista (foda!) de [repositórios open source da galera BR](https://medium.com/@jessicatemporal/projetos-brasileiros-para-contribuir-nesse-hacktoberfest-vers%C3%A3o-2018-4925959b9411) 🇧🇷 separado por linguagens!
 
+# Por último
+
+Uma lista feita pela Erika Heidi com vários filtros interessantes para você escolher em qual linguaguem ou como gostaria de ajudar.
+http://hacktober-board.com/
+
 # Conteúdo do Hacktoberfest in BH 2018
 
 Aconteceu o Hacktoberfest in BH 2018 no último dia 13/10 e foi incrível!! Aqui estão os links dos conteúdos gerados nesse dia!
